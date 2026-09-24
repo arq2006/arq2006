@@ -92,8 +92,6 @@ Costumo organizar o trabalho em etapas: entender o problema, planejar a interfac
   <a href="https://open.spotify.com/user/21cemcnggyp52e3rxq5zj5kpi"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" /></a>
 </p>
 
-<a href="mailto:arthurrquintanilha@gmail.com">E-mail</a> · <a href="https://wa.me/5562996193970">WhatsApp</a>
-
 <br /><br />
 <img src="./assets/evening.gif" alt="Animação em pixel art de uma cena ao entardecer" width="420" />
 
