@@ -33,6 +33,7 @@ Crio aplicações web, APIs e experiências que resolvem problemas reais. Atualm
   <li>🧩 <b>Interesses:</b> SaaS, dashboards, autenticação, APIs e boas experiências para quem usa o produto.</li>
   <li>🐧 <b>Ambiente:</b> Arch Linux, VS Code, Cursor, Git e Docker.</li>
 </ul>
+<p></p>
 
 </td>
 <td width="35%" align="center" valign="middle">
