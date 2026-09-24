@@ -37,7 +37,7 @@ Crio aplicações web, APIs e experiências que resolvem problemas reais. Atualm
 </td>
 <td width="35%" align="center" valign="middle">
 
-<img src="./assets/library.png" alt="Cena em pixel art de uma biblioteca" width="320" />
+<img src="./assets/library.gif" alt="Cena em pixel art de uma biblioteca" width="320" />
 
 </td>
 </tr>
