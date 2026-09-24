@@ -7,7 +7,7 @@
 
 **Desenvolvedor full stack em formação • Goiânia, GO**
 
-Crio aplicações web, APIs e experiências que resolvem problemas reais. Atualmente estudo **Análise e Desenvolvimento de Sistemas na FATESG SENAI** e desenvolvo a **Solenne**.
+Crio aplicações web, APIs e experiências que resolvem problemas reais. Atualmente estudo **Análise e Desenvolvimento de Sistemas na FATESG SENAI**.
 
 <p>
   <a href="https://www.linkedin.com/in/arthur-rodrigues-quintanilha/"><img src="https://img.shields.io/badge/LinkedIn-3D5A80?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
