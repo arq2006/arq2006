@@ -94,7 +94,7 @@ Costumo organizar o trabalho em etapas: entender o problema, planejar a interfac
 </p>
 
 <br /><br />
-<img src="./assets/game-off-gif.gif" alt="Animação em pixel art de uma cena ao entardecer" width="520" />
+<img src="./assets/game-off-gif.gif" alt="Animação em pixel art de uma cena ao entardecer" width="720" />
 
 <sub>Construindo, aprendendo e melhorando um projeto de cada vez.</sub>
 
